@@ -1,0 +1,27 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header, nav, .container, footer {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  nav {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
+  }
+  
